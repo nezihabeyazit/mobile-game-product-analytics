@@ -405,11 +405,10 @@ However, although the point estimate exceeded the predefined +1.5 percentage-poi
 
 Therefore, I would iterate on the treatment and validate further before recommending a full rollout.
 
-Full experiment design:
+### Experiment Files
 
-[`experiment/ab_test_design.md`](experiment/ab_test_design.md)
-
----
+- [Experiment design](experiment/ab_test_design.md)
+- [Python analysis](experiment/ab_test_analysis.ipynb)
 
 # Monetization
 
@@ -634,7 +633,8 @@ mobile-game-product-analytics/
 │   └── limitations.md
 │
 ├── experiment/
-│   └── ab_test_design.md
+│   ├── ab_test_design.md
+│   └── ab_test_analysis.ipynb
 │
 ├── dashboard/
 │   ├── README.md
