@@ -1,8 +1,0 @@
--- Mobile Game Product & User Behavior Analytics
--- Phase 1: Business Framing
---
--- Objective:
--- Analyze player behavior to understand activity, engagement,
--- retention, gameplay progression and monetization, identify
--- a data-backed product opportunity, and define how its impact
--- could be measured.
