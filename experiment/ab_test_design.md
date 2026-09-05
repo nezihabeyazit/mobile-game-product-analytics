@@ -70,8 +70,8 @@ Planning assumptions:
 - Alpha: 0.05
 - Power: 0.80
 - Two-sided test
-- Approximately 9,631 users per group
-- Approximately 19,262 total users
+- Required sample size: 9,632 users per group
+- Required total sample: 19,264 users
 
 ## Simulated Result
 
